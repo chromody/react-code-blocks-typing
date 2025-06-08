@@ -1,6 +1,6 @@
 {
   "name": "react-code-blocks-typing",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Modified react-code-blocks code to allow for a typing animation, that is the only reason to use this.",
   "keywords": [
     "code-snippets",
