@@ -1,2 +1,1 @@
-# react-code-blocks-typing
-Thsi is a simple addition to code blocks that allows for a typing animation
+React Code Blocks Typing is a simple modification of the original one https://www.npmjs.com/package/react-code-blocks by rajinwonderland. All this does is add a typing animation to the code block component.
